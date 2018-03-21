@@ -12,9 +12,6 @@ objName.firstKey; //gives value of first key
   var exArr = ["jim", "pubs", 2, false]
   exArr.length //4
 
-
-
-
 LANGUAGE
 
 JS ignores tabs and whitespaces
