@@ -1,0 +1,15 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Christian Dallago <code@dallago.us> (https://github.com/sacdallago)",
+  "license": "ISC",
+  "dependencies": {
+      "express": "latest",
+      "mongoose": "latest"
+  }
+}

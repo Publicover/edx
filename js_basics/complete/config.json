@@ -1,0 +1,9 @@
+{
+    "database" : {
+        "host": "ds036709.mlab.com",
+        "port": "36709",
+        "collection": "biores",
+        "username": "readonly",
+        "password": "biores.2016"
+    }
+}
